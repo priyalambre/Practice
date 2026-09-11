@@ -1,0 +1,301 @@
+Tour_ID,City,Country,Region,Travel_Type,Tour_Type,Duration_Days,Season,Month,Tour_Price_INR,Travelers,Rating,Bookings,Hotel_Cost,Flight_Cost,Food_Cost,Activities_Cost,Local_Transport_Cost
+1,New York,USA,North America,International,Budget,6,Summer,4,61500,1,3.3,131,16194,19132,8833,8551,8790
+2,Colombo,Sri Lanka,Asia,International,Budget,10,Summer,12,73500,1,4.5,101,23581,17130,10814,11829,10146
+3,Kerala,India,South India,Domestic,Premium,6,Summer,4,31000,5,3.6,42,9106,6631,3339,5107,6817
+4,Ooty,India,South India,Domestic,Budget,8,Winter,9,13000,1,3.3,136,4312,4326,1676,1289,1397
+5,Jaipur,India,North India,Domestic,Budget,5,Winter,7,8000,3,4.4,369,2661,2037,1036,807,1459
+6,Bangkok,Thailand,Asia,International,Standard,10,Summer,3,110500,3,4.6,417,31502,37438,17133,11266,13161
+7,Singapore,Singapore,Asia,International,Standard,2,Monsoon,7,24500,6,4,472,6796,8365,4167,2730,2442
+8,Ooty,India,South India,Domestic,Standard,6,Summer,4,18000,3,3.6,90,5761,5616,2416,2490,1717
+9,Andaman,India,East India,Domestic,Luxury,3,Winter,2,27000,5,4.9,290,7311,8155,3988,3198,4348
+10,Mumbai,India,West India,Domestic,Budget,12,Winter,11,23000,2,4,389,7995,7251,2925,2515,2314
+11,Mumbai,India,West India,Domestic,Standard,10,Winter,11,29000,5,4.8,492,9658,8449,3254,4531,3108
+12,Pune,India,West India,Domestic,Budget,11,Monsoon,8,14000,1,3.6,310,5190,4645,2331,1550,500
+13,Bali,Indonesia,Asia,International,Budget,9,Winter,9,81000,5,3.9,128,21601,21974,11662,8626,17137
+14,Maldives,Maldives,Asia,International,Premium,8,Monsoon,8,213000,5,3.6,132,65751,50520,22391,17488,56850
+15,Paris,France,Europe,International,Budget,12,Winter,4,118000,4,3.6,87,29981,29448,16653,12726,29192
+16,Darjeeling,India,East India,Domestic,Standard,9,Autumn,4,23500,1,4.3,350,7888,5948,3122,3910,2632
+17,Tokyo,Japan,Asia,International,Budget,8,Monsoon,2,69000,2,4.7,58,18956,18443,9228,7441,14932
+18,Mysore,India,South India,Domestic,Budget,2,Winter,2,3500,4,4.7,104,1261,787,485,354,613
+19,Rishikesh,India,North India,Domestic,Budget,8,Monsoon,8,11000,4,3.5,171,3746,3405,1789,1608,500
+20,Kathmandu,Nepal,Asia,International,Budget,11,Winter,12,80000,1,4.8,61,20521,21721,13884,10649,13225
+21,Sydney,Australia,Oceania,International,Budget,11,Winter,11,138500,1,4.3,234,41894,47261,20162,19098,10085
+22,Pune,India,West India,Domestic,Premium,6,Summer,11,29500,3,4.8,499,8290,7651,4535,3244,5780
+23,Bangkok,Thailand,Asia,International,Budget,9,Winter,2,69500,2,3.8,100,21945,15280,8890,6038,17347
+24,Mysore,India,South India,Domestic,Premium,11,Winter,11,60000,1,4.7,400,17335,17970,10506,5605,8584
+25,Barcelona,Spain,Europe,International,Premium,6,Summer,12,99000,1,3.4,236,33598,32465,13902,10406,8629
+26,Delhi,India,North India,Domestic,Budget,2,Monsoon,3,3000,1,3.4,472,852,933,432,368,500
+27,Barcelona,Spain,Europe,International,Budget,7,Summer,7,44500,3,3.6,147,12908,14900,7284,7390,2018
+28,Tokyo,Japan,Asia,International,Premium,10,Autumn,10,280000,2,4.7,32,103697,65942,31640,44796,33925
+29,Sydney,Australia,Oceania,International,Premium,8,Summer,5,188000,2,4.6,255,64139,48387,19382,23888,32204
+30,Leh,India,North India,Domestic,Premium,5,Summer,1,27500,3,4.3,224,8299,6649,2902,4326,5324
+31,Shimla,India,North India,Domestic,Budget,3,Monsoon,3,4000,3,3.9,281,1511,822,590,458,619
+32,New York,USA,North America,International,Luxury,11,Summer,5,439500,6,4.5,120,134789,122175,72306,65347,44883
+33,Srinagar,India,North India,Domestic,Luxury,3,Monsoon,10,19500,4,3.8,376,7024,6005,2418,2163,1890
+34,Jaipur,India,North India,Domestic,Standard,5,Autumn,11,16500,5,4.6,175,5577,5534,2462,1816,1111
+35,Jaipur,India,North India,Domestic,Standard,8,Monsoon,8,20000,6,3.5,63,6756,5533,3269,3519,923
+36,Jaipur,India,North India,Domestic,Premium,3,Summer,11,13000,5,4.6,57,4613,2887,1348,2319,1833
+37,Ooty,India,South India,Domestic,Luxury,12,Summer,12,97000,1,4.5,132,30484,22949,14791,7813,20963
+38,Sydney,Australia,Oceania,International,Luxury,2,Summer,2,84000,4,4.2,388,29751,25211,15038,11721,2279
+39,Andaman,India,East India,Domestic,Luxury,10,Autumn,3,103000,5,4,142,32105,24604,12337,14807,19147
+40,Delhi,India,North India,Domestic,Luxury,3,Monsoon,4,19500,6,3.5,129,5685,5479,2165,2010,4161
+41,Bangkok,Thailand,Asia,International,Luxury,8,Monsoon,9,202500,6,3.2,470,52264,65799,26559,31788,26090
+42,Rishikesh,India,North India,Domestic,Luxury,2,Monsoon,5,14500,5,4.6,479,5233,4973,1936,2243,500
+43,Colombo,Sri Lanka,Asia,International,Luxury,5,Monsoon,7,127000,4,4.8,338,38170,38142,20809,19357,10522
+44,London,UK,Europe,International,Luxury,11,Winter,2,525500,2,4,192,140645,141493,54663,61961,126738
+45,Rishikesh,India,North India,Domestic,Premium,8,Monsoon,2,33000,1,4.5,353,11463,6857,5813,3379,5488
+46,Dubai,UAE,Asia,International,Budget,5,Summer,1,47500,4,4.4,412,13348,12874,5184,8301,7793
+47,Srinagar,India,North India,Domestic,Standard,11,Winter,3,37500,4,3.9,386,9901,7644,4685,5540,9730
+48,Maldives,Maldives,Asia,International,Budget,11,Summer,2,127000,5,4.5,197,36729,38435,20884,20272,10680
+49,Kerala,India,South India,Domestic,Premium,3,Monsoon,1,13500,4,4.4,242,4818,2913,2387,1938,1444
+50,Sydney,Australia,Oceania,International,Premium,11,Autumn,8,293500,1,3.7,250,101267,70516,49348,47861,24508
+51,Goa,India,West India,Domestic,Luxury,11,Autumn,6,81500,3,3.7,325,29390,18522,9533,13022,11033
+52,Delhi,India,North India,Domestic,Budget,10,Summer,2,15000,6,4,425,4542,4249,1788,1914,2507
+53,London,UK,Europe,International,Budget,6,Summer,7,67000,4,4.9,301,19417,19244,9236,8917,10186
+54,Shimla,India,North India,Domestic,Premium,9,Monsoon,5,31500,6,3.5,130,8369,7209,3451,4207,8264
+55,Darjeeling,India,East India,Domestic,Premium,11,Monsoon,2,50000,2,3.7,47,14425,12706,6209,7540,9120
+56,Jaipur,India,North India,Domestic,Standard,12,Autumn,2,39000,1,3.6,461,12660,10545,5274,3839,6682
+57,Darjeeling,India,East India,Domestic,Budget,3,Autumn,8,4500,3,3.3,147,1493,936,503,613,955
+58,New York,USA,North America,International,Luxury,11,Summer,9,484000,5,4.3,332,178163,118387,71187,59475,56788
+59,Tokyo,Japan,Asia,International,Standard,12,Summer,5,202500,4,4.4,260,54759,45779,21466,16254,64242
+60,Jaipur,India,North India,Domestic,Budget,5,Monsoon,12,6500,6,4.2,431,2351,1369,771,691,1318
+61,Maldives,Maldives,Asia,International,Luxury,3,Summer,11,119500,5,4.5,311,34001,26449,12520,19031,27499
+62,Jaipur,India,North India,Domestic,Luxury,3,Autumn,12,23000,5,3.3,241,6953,5539,3293,2846,4369
+63,Manali,India,North India,Domestic,Premium,2,Winter,4,10500,6,4.6,315,3766,3005,1848,1889,500
+64,Dubai,UAE,Asia,International,Standard,9,Autumn,5,125500,3,3.9,184,40924,37049,17486,11185,18856
+65,Tokyo,Japan,Asia,International,Standard,7,Autumn,12,118500,1,3.7,185,39832,30818,19059,9914,18877
+66,New York,USA,North America,International,Luxury,10,Winter,11,539000,4,4.3,409,167120,112182,76255,76679,106764
+67,Singapore,Singapore,Asia,International,Standard,6,Summer,5,85500,2,4.4,179,29136,18657,15206,12045,10456
+68,Paris,France,Europe,International,Luxury,3,Summer,2,122000,5,4.4,232,32363,39628,17064,18502,14443
+69,Darjeeling,India,East India,Domestic,Luxury,5,Autumn,9,36500,1,3.7,424,10029,10581,5829,3418,6643
+70,Varanasi,India,North India,Domestic,Premium,10,Monsoon,1,39500,2,4,267,11408,11377,7106,5094,4515
+71,Leh,India,North India,Domestic,Premium,10,Autumn,8,62500,4,3.3,401,22690,21694,7444,7393,3279
+72,Darjeeling,India,East India,Domestic,Luxury,8,Summer,8,69000,4,3.4,486,18382,23791,8732,6212,11883
+73,Ooty,India,South India,Domestic,Budget,4,Autumn,11,7500,4,4.3,456,1947,2379,909,1067,1198
+74,Shimla,India,North India,Domestic,Luxury,7,Autumn,9,44500,6,3.4,70,11520,13112,7728,7998,4142
+75,Tokyo,Japan,Asia,International,Luxury,4,Monsoon,1,130000,5,3.9,369,45954,31720,16898,12292,23136
+76,Sydney,Australia,Oceania,International,Standard,4,Winter,10,79000,4,4.3,255,26114,18653,13669,7450,13114
+77,Mumbai,India,West India,Domestic,Budget,9,Monsoon,11,13000,4,4.4,253,3374,4443,2327,1428,1428
+78,Udaipur,India,North India,Domestic,Standard,8,Autumn,2,22000,6,3.9,24,7135,6296,3947,2409,2213
+79,Singapore,Singapore,Asia,International,Luxury,6,Summer,10,239000,6,4.4,90,66554,54616,28691,37178,51961
+80,Tokyo,Japan,Asia,International,Budget,6,Autumn,1,66000,2,3.5,422,22783,14092,8158,10213,10754
+81,Srinagar,India,North India,Domestic,Premium,4,Monsoon,8,18500,1,3.4,135,5334,6115,3040,2346,1665
+82,Agra,India,North India,Domestic,Premium,3,Autumn,1,13500,4,4.6,210,3591,3446,2158,1433,2872
+83,Tokyo,Japan,Asia,International,Standard,9,Winter,10,173000,4,4.7,174,55876,58350,20363,14933,23478
+84,Varanasi,India,North India,Domestic,Budget,4,Winter,1,6500,4,3.8,400,2041,1394,1111,608,1346
+85,Varanasi,India,North India,Domestic,Standard,8,Winter,8,25000,4,4.8,457,9301,6049,3880,2543,3227
+86,Srinagar,India,North India,Domestic,Budget,12,Monsoon,9,19000,4,3.4,128,6342,3972,2319,3359,3008
+87,London,UK,Europe,International,Budget,7,Summer,3,80000,2,3.8,95,22134,25957,11546,11091,9272
+88,Paris,France,Europe,International,Premium,4,Summer,9,93000,2,4.2,28,25359,27821,9491,7578,22751
+89,Sydney,Australia,Oceania,International,Premium,2,Summer,12,50500,5,3.4,277,13371,10581,6861,5868,13819
+90,Colombo,Sri Lanka,Asia,International,Budget,12,Monsoon,8,79500,1,4,485,20196,27808,13338,9748,8410
+91,Mysore,India,South India,Domestic,Budget,3,Monsoon,10,3500,4,4.9,291,932,1027,513,529,500
+92,Jaipur,India,North India,Domestic,Luxury,10,Autumn,2,87000,2,3.9,474,23044,25944,14808,11756,11448
+93,Colombo,Sri Lanka,Asia,International,Luxury,7,Autumn,7,204000,2,4.4,262,53521,53858,31254,23955,41412
+94,Bangkok,Thailand,Asia,International,Budget,3,Winter,7,20500,5,4.2,363,7093,6596,2962,2842,1007
+95,New York,USA,North America,International,Luxury,7,Autumn,12,294000,2,4.3,134,84493,72578,31836,38437,66656
+96,Tokyo,Japan,Asia,International,Premium,10,Monsoon,2,240500,5,4.2,349,78074,77220,40310,42677,2219
+97,London,UK,Europe,International,Premium,2,Summer,5,54500,5,4.3,55,15814,13678,5476,9100,10432
+98,Barcelona,Spain,Europe,International,Budget,3,Summer,7,20500,5,4.2,472,6033,5237,3233,3232,2765
+99,Singapore,Singapore,Asia,International,Standard,4,Winter,11,55500,2,4.5,78,17072,14629,8245,6738,8816
+100,Leh,India,North India,Domestic,Luxury,3,Monsoon,11,25000,5,3.3,124,7831,7501,2590,2988,4090
+101,Udaipur,India,North India,Domestic,Standard,4,Monsoon,5,9500,6,3.6,306,2384,2964,1083,1121,1948
+102,Leh,India,North India,Domestic,Budget,8,Winter,7,14000,6,4.3,168,5176,4610,2044,1922,500
+103,New York,USA,North America,International,Luxury,2,Monsoon,3,88000,1,3.6,321,29071,28582,15275,7815,7257
+104,Agra,India,North India,Domestic,Budget,8,Monsoon,12,11000,5,3.5,417,3226,2477,1549,1005,2743
+105,Leh,India,North India,Domestic,Premium,12,Summer,4,57500,1,3.5,415,16288,12996,6453,8965,12798
+106,Gangtok,India,East India,Domestic,Luxury,11,Autumn,11,99000,6,3.7,245,32015,29234,14846,16476,6429
+107,Bangkok,Thailand,Asia,International,Luxury,9,Monsoon,5,235500,3,4.6,59,69649,49720,32249,19725,64157
+108,Bali,Indonesia,Asia,International,Luxury,9,Winter,8,336500,1,4,435,109132,76801,49936,43791,56840
+109,Shimla,India,North India,Domestic,Budget,10,Summer,1,13500,3,4.8,218,4143,3589,1914,1294,2560
+110,Varanasi,India,North India,Domestic,Premium,12,Winter,11,62500,6,4.6,484,16160,13385,9641,6775,16539
+111,Barcelona,Spain,Europe,International,Premium,3,Summer,6,49000,1,3.7,212,16429,14666,5405,7393,5107
+112,Shimla,India,North India,Domestic,Standard,12,Winter,11,34500,3,4.8,268,10905,6994,4302,6041,6258
+113,Maldives,Maldives,Asia,International,Standard,4,Summer,2,65000,5,3.3,192,22909,17949,9306,10001,4835
+114,Rome,Italy,Europe,International,Luxury,4,Summer,3,123500,4,3.8,388,43254,39687,13985,15285,11289
+115,Goa,India,West India,Domestic,Luxury,11,Monsoon,12,86000,2,3.8,312,24116,20285,15243,13625,12731
+116,Mysore,India,South India,Domestic,Luxury,6,Autumn,9,48500,3,3.3,266,18217,15642,7958,4551,2132
+117,Srinagar,India,North India,Domestic,Budget,10,Winter,5,15500,1,4.8,133,4198,4144,2186,2528,2444
+118,Mysore,India,South India,Domestic,Premium,2,Autumn,1,9500,3,4.8,449,2836,2450,1012,973,2229
+119,Shimla,India,North India,Domestic,Standard,4,Winter,5,12000,5,3.2,60,3737,3895,1928,1522,918
+120,London,UK,Europe,International,Premium,5,Summer,9,144500,1,3.3,234,47562,38074,23422,14993,20449
+121,Ooty,India,South India,Domestic,Budget,3,Autumn,10,5000,1,4.2,143,1660,1431,787,545,577
+122,Varanasi,India,North India,Domestic,Standard,12,Winter,9,41000,5,3.2,467,10610,11435,5764,7332,5859
+123,Darjeeling,India,East India,Domestic,Budget,12,Autumn,6,19000,6,3.4,317,4790,6047,2424,2912,2827
+124,Shimla,India,North India,Domestic,Standard,2,Monsoon,9,4000,4,4.3,435,1334,1298,619,712,500
+125,Rome,Italy,Europe,International,Budget,9,Winter,5,63500,4,4.9,298,22405,21137,7953,7048,4957
+126,Darjeeling,India,East India,Domestic,Premium,2,Summer,5,8500,3,3.9,224,2987,2803,1075,785,850
+127,Mysore,India,South India,Domestic,Luxury,7,Summer,8,56500,4,3.3,328,16823,18057,6855,4986,9779
+128,Sydney,Australia,Oceania,International,Premium,7,Winter,2,186500,4,3.8,41,53792,49774,29357,18027,35550
+129,Leh,India,North India,Domestic,Luxury,6,Winter,2,60000,1,3.4,331,18168,16617,9599,5759,9857
+130,Mysore,India,South India,Domestic,Budget,4,Winter,4,7500,6,4,209,2232,1930,1090,1053,1195
+131,Srinagar,India,North India,Domestic,Luxury,3,Summer,9,22000,2,4,218,6399,5319,3890,1817,4575
+132,New York,USA,North America,International,Premium,6,Autumn,4,196500,1,4,480,56420,66313,27371,18129,28267
+133,Mysore,India,South India,Domestic,Budget,12,Monsoon,11,16500,6,4.4,378,4264,4641,2826,2724,2045
+134,Sydney,Australia,Oceania,International,Premium,10,Summer,2,292000,5,3.8,431,103066,68769,40740,33898,45527
+135,Rome,Italy,Europe,International,Budget,3,Monsoon,7,21500,1,3.4,182,7384,5995,3472,3490,1159
+136,Bangkok,Thailand,Asia,International,Luxury,9,Monsoon,3,253000,4,4.1,464,88912,74880,28982,44686,15540
+137,Singapore,Singapore,Asia,International,Budget,10,Summer,5,84000,3,4.6,148,24523,25737,10725,14623,8392
+138,Maldives,Maldives,Asia,International,Premium,4,Monsoon,10,97000,6,4.3,481,30587,21853,17006,9255,18299
+139,Shimla,India,North India,Domestic,Budget,2,Winter,1,3500,5,4.3,274,1225,838,409,480,548
+140,Jaipur,India,North India,Domestic,Premium,9,Summer,11,40500,4,3.5,330,12512,12283,4562,4923,6220
+141,Barcelona,Spain,Europe,International,Premium,7,Monsoon,7,98000,3,4,92,29220,27856,12301,12411,16212
+142,Tokyo,Japan,Asia,International,Budget,6,Autumn,10,63000,6,3.7,410,23634,21126,10399,10922,500
+143,Istanbul,Turkey,Europe,International,Luxury,10,Autumn,8,328500,2,3.6,200,103365,70137,43184,41300,70514
+144,Singapore,Singapore,Asia,International,Budget,6,Autumn,10,64000,4,3.4,155,21443,17317,9147,10541,5552
+145,Srinagar,India,North India,Domestic,Luxury,7,Winter,7,51000,4,4.5,163,16474,12973,6277,6050,9226
+146,New York,USA,North America,International,Standard,3,Autumn,6,60500,5,3.9,40,17791,20620,9704,6044,6341
+147,Dubai,UAE,Asia,International,Budget,4,Monsoon,8,33000,3,3.5,335,8888,11021,3669,5713,3709
+148,Udaipur,India,North India,Domestic,Premium,10,Autumn,12,49500,4,4.2,427,15430,10023,6261,4502,13284
+149,London,UK,Europe,International,Luxury,6,Summer,12,225000,4,3.5,368,70303,62692,35481,35428,21096
+150,Goa,India,West India,Domestic,Budget,11,Winter,4,17500,5,4.8,466,5088,3897,2716,2118,3681
+151,Singapore,Singapore,Asia,International,Standard,10,Summer,9,138000,5,3.8,201,46380,38477,17263,13429,22451
+152,Mumbai,India,West India,Domestic,Luxury,5,Summer,5,39000,2,4.4,270,10890,13491,4828,4247,5544
+153,Manali,India,North India,Domestic,Luxury,7,Monsoon,5,41500,2,3.7,167,14025,10663,7404,6716,2692
+154,Bali,Indonesia,Asia,International,Premium,9,Monsoon,12,152500,2,3.4,399,42130,42819,26632,22816,18103
+155,Goa,India,West India,Domestic,Standard,2,Summer,11,5500,2,3.2,301,1446,1372,757,814,1111
+156,Istanbul,Turkey,Europe,International,Luxury,12,Autumn,8,372000,1,4.3,138,129555,90428,45693,31960,74364
+157,Dubai,UAE,Asia,International,Standard,8,Summer,1,131000,3,4.7,24,39510,35934,22915,23083,9558
+158,Udaipur,India,North India,Domestic,Budget,7,Monsoon,8,11500,4,3.7,434,3687,3151,2013,1898,751
+159,New York,USA,North America,International,Premium,4,Autumn,11,108000,2,3.5,458,29614,33533,17632,14772,12449
+160,Agra,India,North India,Domestic,Luxury,10,Monsoon,2,67500,1,3.6,140,17712,23439,9328,11716,5305
+161,Mysore,India,South India,Domestic,Premium,7,Monsoon,10,31000,1,4,101,7796,9239,4818,2672,6475
+162,Agra,India,North India,Domestic,Premium,3,Monsoon,6,12500,5,3.8,379,3481,2750,1403,1934,2932
+163,Darjeeling,India,East India,Domestic,Standard,5,Winter,9,15000,5,4.7,123,5122,3175,2177,1292,3234
+164,Barcelona,Spain,Europe,International,Standard,7,Autumn,2,85500,1,4,282,29343,23369,14698,10648,7442
+165,Varanasi,India,North India,Domestic,Luxury,11,Winter,9,90500,6,3.6,57,32118,27918,11916,14628,3920
+166,Dubai,UAE,Asia,International,Luxury,7,Winter,9,316000,4,3.5,89,117392,66471,55205,26282,50650
+167,Varanasi,India,North India,Domestic,Premium,8,Autumn,7,37500,3,3.4,295,12703,11222,5367,5450,2758
+168,Agra,India,North India,Domestic,Standard,5,Winter,1,17000,2,3.6,197,5273,5233,2276,2004,2214
+169,Barcelona,Spain,Europe,International,Premium,5,Winter,1,100500,2,3.3,324,30602,31648,17155,8197,12898
+170,Dubai,UAE,Asia,International,Luxury,11,Winter,4,467000,1,3.4,168,141171,109815,54817,77696,83501
+171,Colombo,Sri Lanka,Asia,International,Premium,11,Monsoon,4,161500,1,4.1,322,43382,48293,19005,17773,33047
+172,Sydney,Australia,Oceania,International,Luxury,10,Autumn,1,503500,4,3.9,173,187506,151403,82002,56328,26261
+173,Rishikesh,India,North India,Domestic,Standard,10,Autumn,4,32500,5,3.9,233,9395,9949,5345,5572,2239
+174,Pune,India,West India,Domestic,Standard,8,Summer,5,20500,6,4.6,46,6848,6935,3439,1829,1449
+175,Delhi,India,North India,Domestic,Luxury,12,Winter,2,91500,3,3.7,485,31935,28241,13240,11706,6378
+176,Paris,France,Europe,International,Standard,5,Winter,12,99000,2,4.1,417,30913,23402,14686,9944,20055
+177,Jaipur,India,North India,Domestic,Luxury,9,Monsoon,5,58500,4,4.5,183,18524,16063,6311,10420,7182
+178,Kathmandu,Nepal,Asia,International,Premium,7,Autumn,1,128500,5,4.4,171,35821,28512,15530,22291,26346
+179,Barcelona,Spain,Europe,International,Standard,7,Summer,7,79500,4,4.8,348,22414,22466,13950,9043,11627
+180,Gangtok,India,East India,Domestic,Luxury,4,Monsoon,3,25000,1,4.1,449,8026,5690,4278,4475,2531
+181,Bangkok,Thailand,Asia,International,Budget,2,Autumn,3,16000,3,3.3,346,4481,4897,1611,2089,2922
+182,Darjeeling,India,East India,Domestic,Luxury,2,Winter,9,16500,1,4.1,377,4150,4610,2012,2932,2796
+183,Kerala,India,South India,Domestic,Standard,3,Winter,9,8000,4,3.3,227,2199,2231,1321,853,1396
+184,Ooty,India,South India,Domestic,Standard,5,Monsoon,11,13500,4,3.8,302,3516,4708,2051,1122,2103
+185,Darjeeling,India,East India,Domestic,Budget,12,Winter,12,19000,1,4.7,490,5984,5036,3092,2595,2293
+186,Dubai,UAE,Asia,International,Standard,5,Autumn,5,67000,1,3.5,455,17397,22702,11520,9135,6246
+187,Manali,India,North India,Domestic,Budget,5,Summer,12,8000,4,4.4,296,2966,1959,1160,1093,822
+188,Shimla,India,North India,Domestic,Luxury,4,Winter,9,31500,5,4.5,324,9291,6761,3735,2759,8954
+189,Agra,India,North India,Domestic,Premium,2,Monsoon,8,8000,6,3.8,415,2370,2729,1076,1183,642
+190,Jaipur,India,North India,Domestic,Standard,3,Winter,5,8000,1,3.4,177,2740,2360,1273,893,734
+191,Mysore,India,South India,Domestic,Premium,6,Winter,3,26500,1,3.8,67,8109,7514,3736,2393,4748
+192,Manali,India,North India,Domestic,Luxury,2,Monsoon,7,12500,5,4.1,370,3262,4189,2155,2222,672
+193,Rishikesh,India,North India,Domestic,Standard,4,Monsoon,5,9500,1,3.8,146,2555,2138,1159,1044,2604
+194,Gangtok,India,East India,Domestic,Standard,9,Winter,3,26000,3,3.9,240,9707,6495,3889,4170,1739
+195,Rome,Italy,Europe,International,Premium,7,Summer,8,114500,4,4.8,420,42982,39537,14119,17117,745
+196,Goa,India,West India,Domestic,Premium,8,Monsoon,7,34000,5,3.2,392,12619,7818,6112,3331,4120
+197,Ooty,India,South India,Domestic,Standard,9,Monsoon,12,20000,3,3.6,357,7204,6385,3076,1878,1457
+198,Barcelona,Spain,Europe,International,Luxury,8,Winter,8,277500,6,3.9,38,86663,72183,38996,47740,31918
+199,Srinagar,India,North India,Domestic,Budget,3,Summer,11,5000,6,3.9,405,1358,1459,725,722,736
+200,Shimla,India,North India,Domestic,Luxury,3,Winter,2,21000,4,3.8,257,6644,5834,3075,2887,2560
+201,Andaman,India,East India,Domestic,Standard,7,Winter,8,23000,2,3.8,195,6993,7917,2513,4003,1574
+202,Ooty,India,South India,Domestic,Standard,10,Autumn,6,29500,6,3.4,454,9055,8983,3702,3245,4515
+203,Shimla,India,North India,Domestic,Budget,12,Summer,12,16000,2,4.6,342,4362,3584,2316,2813,2925
+204,Sydney,Australia,Oceania,International,Standard,12,Autumn,7,184500,6,3.6,162,60854,42360,27190,21934,32162
+205,Bangkok,Thailand,Asia,International,Budget,10,Summer,6,67500,6,3.7,218,20890,16156,11408,8962,10084
+206,Agra,India,North India,Domestic,Budget,7,Monsoon,8,10500,1,4.3,180,3735,3211,1299,1485,770
+207,New York,USA,North America,International,Standard,6,Winter,3,111500,4,3.5,345,29923,28797,16470,15329,20981
+208,Sydney,Australia,Oceania,International,Standard,9,Monsoon,3,124000,4,3.4,437,44572,36321,20985,21722,500
+209,Rishikesh,India,North India,Domestic,Luxury,8,Autumn,7,68000,2,3.7,160,20923,15305,9875,10851,11046
+210,Colombo,Sri Lanka,Asia,International,Premium,4,Autumn,10,77000,5,4.6,207,26916,21749,8397,7039,12899
+211,Dubai,UAE,Asia,International,Luxury,10,Summer,7,330000,4,3.6,461,118110,103191,40859,59377,8463
+212,Bali,Indonesia,Asia,International,Luxury,3,Summer,4,101500,2,4.2,421,33132,25638,15921,14542,12267
+213,Kathmandu,Nepal,Asia,International,Standard,2,Monsoon,9,18500,3,4.8,283,5920,4598,2891,2015,3076
+214,Tokyo,Japan,Asia,International,Standard,8,Winter,5,153500,2,4.5,366,40907,50641,18416,23199,20337
+215,Agra,India,North India,Domestic,Luxury,4,Monsoon,11,27000,5,4.5,375,8336,7966,4601,2411,3686
+216,Srinagar,India,North India,Domestic,Luxury,9,Monsoon,10,54000,6,4.4,455,18934,16735,8557,6795,2979
+217,Bangkok,Thailand,Asia,International,Luxury,5,Autumn,4,148500,4,4.5,477,43357,36017,21352,13819,33955
+218,Singapore,Singapore,Asia,International,Budget,3,Autumn,1,26000,2,4.9,485,9398,6921,2601,4570,2510
+219,Rome,Italy,Europe,International,Premium,4,Monsoon,2,64500,4,4.3,391,18224,16497,11113,6227,12439
+220,Colombo,Sri Lanka,Asia,International,Luxury,12,Winter,12,328500,4,3.2,376,91239,69540,48451,43343,75927
+221,Shimla,India,North India,Domestic,Budget,8,Summer,8,10000,3,3.4,416,2997,3096,1081,1113,1713
+222,Rome,Italy,Europe,International,Standard,3,Winter,10,37500,4,4.2,246,11520,11563,5634,3567,5216
+223,Kathmandu,Nepal,Asia,International,Budget,3,Summer,2,21500,3,4.3,147,6448,7406,2690,2020,2936
+224,Jaipur,India,North India,Domestic,Budget,12,Monsoon,4,17500,2,4,77,5534,5463,2163,1495,2845
+225,Goa,India,West India,Domestic,Luxury,12,Winter,9,115500,5,3.9,299,29056,29356,14474,13707,28907
+226,Sydney,Australia,Oceania,International,Luxury,3,Winter,10,122000,5,3.7,384,34658,25128,12790,19389,30035
+227,Andaman,India,East India,Domestic,Luxury,8,Autumn,2,80500,2,4.9,99,25751,17943,8588,7076,21142
+228,Manali,India,North India,Domestic,Luxury,11,Winter,5,91500,4,3.4,333,31557,29917,9573,8108,12345
+229,Singapore,Singapore,Asia,International,Premium,12,Summer,2,234000,5,4.5,389,62673,47198,32692,26832,64605
+230,Mumbai,India,West India,Domestic,Standard,7,Summer,12,21000,4,3.7,52,5983,6992,3396,1741,2888
+231,Mumbai,India,West India,Domestic,Budget,9,Autumn,9,14500,1,4.7,365,4566,4132,1876,1529,2397
+232,New York,USA,North America,International,Standard,10,Winter,1,211000,2,4.8,459,53087,43655,27243,36296,50719
+233,Dubai,UAE,Asia,International,Luxury,5,Monsoon,4,162500,5,4.3,46,55841,39111,17262,19058,31228
+234,Sydney,Australia,Oceania,International,Standard,10,Winter,7,160000,5,4,208,49673,38775,26814,18036,26702
+235,Maldives,Maldives,Asia,International,Premium,11,Monsoon,12,273000,2,4.4,299,84714,78829,38074,42932,28451
+236,Goa,India,West India,Domestic,Standard,2,Autumn,1,5500,1,4.5,212,1622,1792,935,963,500
+237,Udaipur,India,North India,Domestic,Budget,5,Summer,7,8000,2,4.7,286,2062,2796,1255,714,1173
+238,Varanasi,India,North India,Domestic,Premium,9,Winter,10,40500,4,4.3,86,10827,13081,4292,5539,6761
+239,Goa,India,West India,Domestic,Premium,6,Monsoon,7,27500,2,3.4,414,9503,6811,3348,2405,5433
+240,Tokyo,Japan,Asia,International,Standard,3,Summer,8,48000,3,4,456,14536,13458,8504,4836,6666
+241,New York,USA,North America,International,Budget,4,Monsoon,12,43000,2,4.8,222,10975,13991,5427,3832,8775
+242,Andaman,India,East India,Domestic,Budget,12,Monsoon,5,22500,5,3.6,256,6133,7713,3788,3050,1816
+243,Tokyo,Japan,Asia,International,Standard,3,Winter,1,57000,6,4.8,63,21530,12517,9455,6681,6817
+244,Mumbai,India,West India,Domestic,Budget,2,Winter,4,3500,3,3.4,256,1076,767,603,570,500
+245,Singapore,Singapore,Asia,International,Standard,11,Autumn,12,162500,2,3.7,248,41247,49153,18496,16489,37115
+246,Barcelona,Spain,Europe,International,Budget,11,Summer,11,73500,2,3.9,349,22311,20771,7708,7936,14774
+247,Pune,India,West India,Domestic,Standard,12,Winter,7,39500,5,3.7,158,11719,11126,5481,6765,4409
+248,Sydney,Australia,Oceania,International,Budget,7,Summer,1,82000,5,4.9,101,28799,17120,14704,10901,10476
+249,Tokyo,Japan,Asia,International,Standard,12,Summer,5,196000,5,4.6,428,69160,60869,31580,34256,500
+250,Rishikesh,India,North India,Domestic,Premium,4,Summer,4,19000,6,3.8,310,6741,5788,3289,1573,1609
+251,Barcelona,Spain,Europe,International,Standard,9,Monsoon,3,90000,1,3.8,334,23556,21140,10575,11938,22791
+252,Maldives,Maldives,Asia,International,Standard,7,Summer,6,106500,5,4.7,57,28670,32557,11856,9701,23716
+253,Srinagar,India,North India,Domestic,Luxury,11,Winter,6,86500,4,4.3,109,23159,19343,15214,13769,15015
+254,Leh,India,North India,Domestic,Standard,12,Summer,7,37000,5,3.9,414,12561,8106,5857,6470,4006
+255,Dubai,UAE,Asia,International,Standard,11,Monsoon,10,133000,2,3.8,183,43028,45286,14796,20553,9337
+256,Istanbul,Turkey,Europe,International,Budget,12,Monsoon,8,66500,6,3.2,217,18437,20214,8514,10553,8782
+257,Mysore,India,South India,Domestic,Luxury,4,Autumn,8,35500,5,4.3,371,10495,9098,5903,5639,4365
+258,Colombo,Sri Lanka,Asia,International,Standard,9,Winter,1,102500,4,3.5,58,29871,35131,10858,9943,16697
+259,Bali,Indonesia,Asia,International,Premium,11,Autumn,12,191500,1,3.8,117,71337,43039,32781,18328,26015
+260,Varanasi,India,North India,Domestic,Premium,12,Monsoon,5,46500,3,3.2,64,11925,13288,7774,4434,9079
+261,Jaipur,India,North India,Domestic,Luxury,5,Winter,1,38000,4,4,478,12652,13169,5239,3478,3462
+262,Mumbai,India,West India,Domestic,Budget,12,Autumn,3,19500,3,3.6,157,5841,4445,2019,2417,4778
+263,Singapore,Singapore,Asia,International,Standard,12,Winter,2,196500,1,4.6,439,69769,51502,31541,20190,23498
+264,Pune,India,West India,Domestic,Luxury,10,Autumn,10,89000,5,4.2,284,27760,18854,15327,13477,13582
+265,Barcelona,Spain,Europe,International,Budget,9,Summer,3,71500,4,3.5,441,25389,15653,9571,12786,8101
+266,Barcelona,Spain,Europe,International,Premium,7,Winter,2,126500,1,4.5,339,38159,31488,15445,15915,25493
+267,Pune,India,West India,Domestic,Luxury,3,Autumn,3,22000,5,4.5,422,7181,6902,3853,3794,500
+268,Jaipur,India,North India,Domestic,Premium,8,Monsoon,7,35000,5,4.2,375,11352,9483,3982,4210,5973
+269,Agra,India,North India,Domestic,Budget,8,Monsoon,12,10500,3,3.7,451,3642,3550,1803,861,644
+270,Gangtok,India,East India,Domestic,Budget,5,Summer,5,9000,6,3.4,246,2768,2914,1093,1095,1130
+271,Kathmandu,Nepal,Asia,International,Luxury,9,Monsoon,1,231000,5,4.7,34,62523,56980,32465,21613,57419
+272,Sydney,Australia,Oceania,International,Standard,5,Winter,4,79000,4,4.1,345,20269,20070,9158,9229,20274
+273,New York,USA,North America,International,Budget,5,Monsoon,8,52000,2,4.6,152,14200,17189,7641,5978,6992
+274,Bali,Indonesia,Asia,International,Premium,2,Autumn,1,36000,6,3.6,353,11678,12410,6068,5210,634
+275,Varanasi,India,North India,Domestic,Budget,12,Winter,8,23000,3,4.4,383,7685,6673,2315,2420,3907
+276,Delhi,India,North India,Domestic,Luxury,8,Monsoon,8,51500,1,3.2,359,15999,15531,8546,6165,5259
+277,Srinagar,India,North India,Domestic,Premium,6,Winter,8,26500,6,4.8,353,10029,7846,4476,2812,1337
+278,Udaipur,India,North India,Domestic,Standard,4,Summer,1,12000,6,3.2,274,4251,3480,1834,1776,659
+279,Jaipur,India,North India,Domestic,Premium,8,Autumn,7,41500,6,3.6,293,13520,14492,6859,4744,1885
+280,Darjeeling,India,East India,Domestic,Premium,10,Monsoon,3,45500,3,4.4,306,16559,10336,4905,4222,9478
+281,Sydney,Australia,Oceania,International,Premium,12,Winter,4,322500,3,4.2,257,111826,79355,52582,36484,42253
+282,New York,USA,North America,International,Luxury,2,Winter,8,108000,1,4.7,97,34026,35653,14097,11862,12362
+283,Rome,Italy,Europe,International,Standard,7,Autumn,10,90500,1,4,343,34232,20044,15293,8872,12059
+284,Sydney,Australia,Oceania,International,Premium,12,Winter,1,331000,1,3.4,242,91759,104606,48359,31724,54552
+285,Kerala,India,South India,Domestic,Luxury,8,Autumn,7,56000,5,3.5,366,17885,17337,9856,9475,1447
+286,Paris,France,Europe,International,Standard,5,Monsoon,5,65500,3,4.8,253,19640,18883,7425,10636,8916
+287,Pune,India,West India,Domestic,Premium,8,Summer,6,42000,4,3.2,134,13176,13125,4754,7168,3777
+288,Rome,Italy,Europe,International,Standard,2,Summer,2,21500,5,4.3,324,7193,4420,3657,2269,3961
+289,Singapore,Singapore,Asia,International,Budget,12,Winter,1,125500,2,3.5,371,38174,32258,18044,15993,21031
+290,Paris,France,Europe,International,Premium,8,Winter,11,217000,5,4.4,80,71819,66208,28970,36860,13143
+291,Jaipur,India,North India,Domestic,Budget,3,Autumn,4,5000,4,3.7,40,1755,1623,889,578,500
+292,Gangtok,India,East India,Domestic,Standard,9,Monsoon,4,19500,2,4.8,419,6577,6552,3252,2864,500
+293,Andaman,India,East India,Domestic,Budget,3,Monsoon,11,4500,2,4.7,456,1703,1099,617,404,677
+294,Jaipur,India,North India,Domestic,Premium,12,Monsoon,7,53500,6,4.3,188,14035,16784,5546,8838,8297
+295,Leh,India,North India,Domestic,Luxury,11,Monsoon,12,78000,3,4.6,373,27763,17739,10300,13746,8452
+296,Darjeeling,India,East India,Domestic,Luxury,12,Summer,2,83500,5,4,311,28760,28994,13990,7546,4210
+297,Mysore,India,South India,Domestic,Standard,11,Autumn,6,33500,4,4.8,77,12131,11121,5299,5667,500
+298,Varanasi,India,North India,Domestic,Luxury,2,Winter,5,17000,6,4.2,362,4277,5614,2413,2624,2072
+299,Shimla,India,North India,Domestic,Budget,8,Summer,8,11000,5,3.3,349,3717,2835,1838,1494,1116
+300,Istanbul,Turkey,Europe,International,Luxury,9,Summer,2,272500,5,4.3,226,79483,68025,33313,35613,56066
